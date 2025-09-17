@@ -1,4 +1,4 @@
-# Creality-CR10-V2, Firmware para aguentar filamento garrafa Pet
+# Firmware para aguentar filamento garrafa Pet
 Configuração do Firmware para a impressora 3D Creality Cr10-V2 para suportar filamento Pet Bottle (PBG)
 
 Aqui estou colocando dois diretorios, onde um está com a logo do IFMaker de Pernambuco e a outra está como padrão.
