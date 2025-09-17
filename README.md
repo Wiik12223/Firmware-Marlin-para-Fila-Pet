@@ -9,6 +9,14 @@ As unicas alterações feitas nesse Firmware até o momento foram:
 
 Até o mommento não tiveram mais alterações.
 
+Como instalar o firmware na CR10?
+Você irá precisar do Xloader:
+https://github.com/binaryupdates/xLoader
+
+Em seguida siga os passos:
+- Selecione o dispositivo: Abra o Xloader, e na seção de configuração, selecione a porta COM correta que você identificou no Gerenciador de Dispositivos. 
+- Defina a taxa de transmissão: Defina a taxa de transmissão para 115200. 
+- Faça o upload: Clique no botão para carregar o arquivo .hex que você baixou e aguarde a conclusão do processo. 
 
 Segue a imagem da logo:
 
