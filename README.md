@@ -16,7 +16,7 @@ https://github.com/binaryupdates/xLoader
 Como imprimir com esse filamento?
 (Nós testes que fizemos a temperatura ideial que foi achado para filamentos feitos a partir de garrafas da marca coca-cola)
 
-= A temperatura do bicho foi de 65
+- A temperatura do bicho foi de 65
 - A temperatura da mesa foi de 80
 
 Em seguida siga os passos:
