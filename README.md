@@ -14,6 +14,7 @@ Você irá precisar do Xloader:
 https://github.com/binaryupdates/xLoader
 
 Como imprimir com esse filamento?
+
 (Nós testes que fizemos a temperatura ideial que foi achado para filamentos feitos a partir de garrafas da marca coca-cola)
 
 - A temperatura do bicho foi de 65
