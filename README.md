@@ -13,6 +13,11 @@ Como instalar o firmware na CR10?
 Você irá precisar do Xloader:
 https://github.com/binaryupdates/xLoader
 
+Como imprimir com esse filamento?
+(Nós testes que fizemos a temperatura ideial que foi achado para filamentos feitos a partir de garrafas da marca coca-cola)
+= A temperatura do bicho foi de 65
+- A temperatura da mesa foi de 80
+
 Em seguida siga os passos:
 - Selecione o dispositivo: Abra o Xloader, e na seção de configuração, selecione a porta COM correta que você identificou no Gerenciador de Dispositivos. 
 - Defina a taxa de transmissão: Defina a taxa de transmissão para 115200. 
